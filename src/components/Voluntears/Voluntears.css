@@ -1,0 +1,11 @@
+.activity{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 10px;
+    margin-top: 20px;
+}
+.activity img{
+    width: 200px;
+    border: 2px solid gray;
+    border-radius: 50%;
+}
